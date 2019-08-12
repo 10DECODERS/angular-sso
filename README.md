@@ -1,1 +1,1 @@
-angular-sso
+Angular SSO
